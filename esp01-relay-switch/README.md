@@ -9,5 +9,3 @@ Firmware Arduino untuk **ESP-01** yang terdiri dari dua project:
 2. **esp01-switch**  
    ESP-01 membaca status tombol / saklar 2-pin dan menampilkan state melalui HTTP.  
    Endpoint: `/state`.
-
-## Struktur Repo
