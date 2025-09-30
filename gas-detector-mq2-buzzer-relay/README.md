@@ -31,10 +31,3 @@ Jika tidak ada gas:
 | Buzzer   | D13         |
 | VCC      | 5V          |
 | GND      | GND         |
-
----
-
-## 🔧 Cara Menggunakan
-1. Clone repository ini:
-   ```bash
-   git clone https://github.com/username/mq2-gas-detector-arduino.git
