@@ -81,11 +81,6 @@ Relay digunakan untuk mengontrol kipas, sedangkan LED berfungsi sebagai indikato
 
 ---
 
-## 📸 Demo
-_(tambahkan foto hasil rangkaian + LCD agar menarik untuk portofolio GitHub)_
-
----
-
 ## 👤 Author
 Project dibuat oleh **Opensource People**  
 Kontribusi oleh: **Yore Gwijangge**
