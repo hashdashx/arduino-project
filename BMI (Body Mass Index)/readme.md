@@ -23,8 +23,8 @@ BMI = Berat Badan (kg) / (Tinggi Badan (m) * Tinggi Badan (m))
 - **25 – 29.9** → Kelebihan berat badan
 - **≥ 30** → Obesitas
 
-## Screenshot
-Hasil simulasi ditampilkan pada LCD seperti contoh berikut:
+## Wiring diagram
+Contoh:
 
 ![Hasil LCD](BMI2.png)
 
@@ -52,8 +52,8 @@ BMI = Weight (kg) / (Height (m) * Height (m))
 - **25 – 29.9** → Overweight
 - **≥ 30** → Obesity
 
-### Screenshot
-Simulation results shown on LCD:
+### Wiring diagram
+Example:
 
 ![LCD Output](BMI2.png)
 
